@@ -4,7 +4,7 @@
 # 2. choose any pair of cryptos or stocks
 # 3. uncomment the buy and sell calls when you are ready to trade otherwise it will only simulate
 # 4. (optional) change the parameters to taste
-
+# 5. use responsibly. We are not financial advisors and we are not resbonsible for any loss
 
 
 # Replace with your Binance API key and secret
